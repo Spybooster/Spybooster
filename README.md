@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel framework**
 
-- 👯 I’m looking to collaborate on **Designa Studio**
-
 - 📫 How to reach me **nielblanca50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
