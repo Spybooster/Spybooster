@@ -6,7 +6,7 @@ I'm a Web Developer on an exciting coding journey since 2019.
   - PHP
   - Laravel (Versions: 5.6 to the latest 10)
   - Codeigniter
-  - CSS, HTML
+  - Bootstrap v3 - v5
   - Vue.js
     
 ## Contact/Reach Me
