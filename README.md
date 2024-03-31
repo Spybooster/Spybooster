@@ -1,9 +1,14 @@
+<img src="Banner.webp" alt="Banner Image" />
+
 # Welcome to Spyboosters'! 👋
 
-Hello, I'm Niel Blanca, a passionate full-stack web developer currently working at a company in Japan. I'm deeply enthusiastic about learning and mastering various aspects of web development.
+Greetings, I'm Niel Blanca, a dedicated full-stack web developer currently employed at a reputable company in Japan. With a strong foundation in both front-end and back-end development, I specialize in crafting comprehensive solutions for web-based projects.
+
+## Professional Summary
+Driven by a profound passion for mastering diverse facets of web development, I approach each project with a deep commitment to continuous learning and growth. My journey as a full-stack developer is characterized by a relentless pursuit of excellence and innovation.
 
 ## About Me
-I have embarked on a journey to explore the realms of full-stack web development and its related technologies. With a keen interest in both front-end and back-end development, I am constantly seeking to expand my skill set and delve deeper into the world of programming.
+I am on a relentless pursuit to explore the vast realms of full-stack web development and its associated technologies. My keen interest in both front-end and back-end development fuels my quest to continually expand my skill set and delve deeper into the intricacies of programming.
 
 ## Skills
 ### Programming Languages
@@ -26,5 +31,9 @@ I have embarked on a journey to explore the realms of full-stack web development
 
 ## Contribution Graph
 ![Niel Blanca's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=spybooster&theme=dark)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spybooster&layout=compact&theme=radical)
+
 
 Feel free to connect with me via email at jezerniel.blanca@icloud.com and check out some of my projects on GitHub. Let's collaborate and build something awesome together! 🚀
